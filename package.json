@@ -1,0 +1,22 @@
+{
+  "name": "toyis",
+  "version": "1.0.0",
+  "description": "Toyis -------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssnau/toyis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssnau/toyis/issues"
+  },
+  "homepage": "https://github.com/ssnau/toyis",
+  "dependencies": {
+    "lodash": "^3.0.1"
+  }
+}
